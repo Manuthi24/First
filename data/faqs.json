@@ -1,0 +1,44 @@
+[
+  {
+    "id": "shipping_1",
+    "category": "shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days depending on your location."
+  },
+  {
+    "id": "returns_1",
+    "category": "returns",
+    "question": "What is your return policy?",
+    "answer": "You can return unused items within 30 days of delivery for a full refund. Final-sale items are not eligible for return."
+  },
+  {
+    "id": "refund_1",
+    "category": "refunds",
+    "question": "When will I receive my refund?",
+    "answer": "Refunds are processed within 5-7 business days after we receive and inspect your return."
+  },
+  {
+    "id": "order_1",
+    "category": "orders",
+    "question": "How can I track my order?",
+    "answer": "After your order ships, you will receive an email with a tracking link. You can also check tracking from your account orders page."
+  },
+  {
+    "id": "payment_1",
+    "category": "payments",
+    "question": "Which payment methods are accepted?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, and UPI for eligible regions."
+  },
+  {
+    "id": "cancel_1",
+    "category": "orders",
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Orders can be canceled within 30 minutes of placement if they have not entered processing."
+  },
+  {
+    "id": "support_1",
+    "category": "support",
+    "question": "How do I contact customer support?",
+    "answer": "You can reach support via live chat, support@example.com, or call +1-800-123-4567 between 9 AM and 6 PM EST."
+  }
+]
